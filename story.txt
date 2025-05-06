@@ -1,0 +1,67 @@
+Who Is Roanoke's Mayor? City's AI Chatbot Stumped for Now.
+A new AI chatbot - Virtual Assistant Virginia - is now at work on Roanoke’s municipal website.
+
+Todd Jackson
+Jeff Sturgeon
+Todd Jackson, Jeff Sturgeon
+Apr 29, 2025 • 4 min read
+
+An artificial intelligence rendering by Open AI's ChatGPT, when asked to create an artsy image of the outside of Roanoke's city hall. IMAGE CREATED BY OPEN.AI
+A new AI chatbot - Virtual Assistant Virginia - is now at work on Roanoke’s municipal website, designed to make it easier to get city information and to find services.
+
+Roanoke is the first city in Virginia to use the technology, powered by Polimorphic, a New York-based firm. The chatbot is being provided to the city free of charge based on a partnership between it and the company, according to the city.
+
+The city offers a disclaimer that the artificial intelligence behind the new search engine can give inaccurate answers. But the tool struggled to provide even basic facts about city government in a Rambler test drive.
+
+“Who is Roanoke’s mayor?” we asked the chatbot. 
+
+“I don't have specific information about Roanoke's mayor,” the tool replied.
+
+It identified Bob Cowell, who left last year, as the current city manager. The chatbot provided a five-year-old figure for the local population.
+
+And where mum is the word — the city has taken DEI information offline to avoid angering President Donald Trump’s administration — the chatbot provided an 80-word summary of the efforts, explaining that “Roanoke actively engages in Diversity, Equity, and Inclusion (DEI) programs.”
+
+Roanoke debuted the Virginia chatbot on April 15, noting on social media that the city was “proud to be the first locality in Virginia to have this revolutionary technology.” The city added, “Virtual Assistant Virginia pulls exclusively from City content, ensuring reliability and accuracy of information.”
+
+“The city’s primary goal in launching Virtual Assistant Virginia is to utilize innovative technology to improve how we communicate and deliver services to our community,” Carol Corbin, a city spokesperson, said in an email. “This AI-powered feature will assist our residents and website visitors to more easily search and find the right information on our site using natural language models and not only keyword searching.”
+
+Polimorphic, on its website, promises local governments “fewer calls for staff, happier residents.” Polimorphic says its chatbot can reduce calls from residents by 50 percent and cut voicemails down 90 percent. 
+
+Don't miss a story!
+Get local journalism you won't find elsewhere with our FREE weekly newsletter
+
+Your email address
+Sign up
+Or become a member for full access
+
+So far, however, the chatbot can share little information about some city services or community data, The Rambler test found.
+
+Among the questions to which Virginia responded it had “no specific information”: “How do I get a dog license?”; “What is Roanoke’s crime rate?”; “When are libraries open?”; “How late do buses run?”; “What is the city’s trash schedule?”
+
+“Who is on the ballot this year?” elicited a referral to a November 2024 sample ballot.
+
+Asked if Roanoke is safe, the chatbot cited a “2019 Roanoke Valley Community Healthy Living Index” and said, “only 64% of families felt their neighborhood was safe for children to engage in outdoor activities during the day, such as walking and biking.” (The actual 2019 report, from Roanoke College, says 62 percent.)
+
+The tool did correctly identify Roanoke’s real estate tax rate at $1.22 per $100 in assessed property value; when city council meetings are held; and the location of the municipal building.
+
+The relationship between the city and Polimorphic started in 2023. Through the city’s partnership with the Alliance for Innovation (AFI), Deputy City Manager Angie O’Brien attended a council meeting in Milwaukee, Wisconsin, in November of that year. There, she met with the team from Polimorphic, including co-founder and CEO Parth Shah, according to Corbin.
+
+“Parth and the Polimorphic team have been outstanding partners to the city,” Corbin wrote.
+
+The city expects the chatbot to support its workforce, and there are no plans to eliminate any jobs through the use of the technology, Corbin said.
+
+Roanoke has been experimenting with artificial intelligence of late.
+
+The same day Roanoke announced the chatbot, the city posted on Instagram an image of an “AI-generated toy set” including the Mill Mountain Star and Rail Yard Dawgs baseball cap that “captures a slice of life here in Roanoke! What do you think?”
+
+Most commenters were not kind.
+
+“I think this is lazy, pathetic, and beyond disappointing to see from the city’s official page,” one poster wrote. “The energy you’ve chosen to waste in order to generate this one image is equivalent to dumping out a full bottle of water or powering 14 light bulbs for an hour.”
+
+“Ew. No. You have so many amazing artists and designers in the community - this could have been a community outreach post,” another commenter wrote. “This AI post wasn’t worth the environmental damage this kind of work creates.”
+
+The city is also currently using Zencity, which leverages AI to support community engagement and data analysis. Additionally, the city is exploring other programs with AI capabilities, and plans to expand their use in the near future, according to Corbin.
+
+“Our commitment to responsible and ethical AI implementation is a priority,” she said. 
+
+Henri Gendreau contributed reporting to this story.

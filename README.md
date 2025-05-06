@@ -22,4 +22,14 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+My EVALUATION:
+
+It took me a second to see where the output was going, but once I saw it in the bottom it was pretty accurate. In hindsight I didn't give it the best article for this assignment, most noticably because some quotes are literally from the city of Roanoke. Which is not a person, but is talking. So technically it did nothing wrong, but I almost would have liked to see Roanoke listed as a person as well, with an explanation of why.
+
+For Roanoke Rambler, they take on a lot of investigative stories with a small team, this could save them some time while on the hunt for potential stories. We used this to get information from stories published by CNS, but maybe an example of what Roanoke Rambler could do with this would be to read Congress press releases for most commonly mentioned organizations and names, or something like that. 
+Or, in their own archives, Roanoke Rambler could keep track of what topic theyve covered, who they have covering each topic, what sources they've talked to already, things like this.
+For a small organization run by a small group of white guys, this could have a good place in keeping track of what communities they cover. Like for example, there's two areas of Roanoke-- Old Southwest, a lower income diverse area, and South Roanoke, a high income nondiverse area. They could use a similar entity to track, for example, stories based in South Roanoke or affecting South Roanoke residents compared to those from Old Southwest to make sure the coverage is fair.
+
+They could also use this to watch crime, check for big names, things like that. Having this running in the background to track connections could provide a good base of story ideas. Like, if the mayor was in the crime stats. 
+
+Let it be noted, at the end of this my laptop is so hot to the touch that I cannot rest my hand on certain parts of it. Cool. 
